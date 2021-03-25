@@ -1,4 +1,4 @@
-package com.solution.huaweimachinetest.taketheapproximatevalue;
+package com.solution.huaweimachinetest.introduction.taketheapproximatevalue;
 
 import java.util.Scanner;
 
